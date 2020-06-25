@@ -13,7 +13,7 @@ Il s'agit d'un excercice réalisé durant la formation chez BeCode de Junior Web
 
 ## Responsive
 
-Implémenté via Bootstrap  
+Implémenté via Bootstrap 4  
 
 ## Team
 
@@ -31,7 +31,9 @@ En cours de maquettage
 
 ## Historique
 
-+ Création du repo le 25/06/2020 9h30, initialisation du repo, des dossiers et des fichiers basiques.
++ 25/06/2020 9h30 : création du readme, initialisation du repo, des dossiers et des fichiers basiques.
++ 25/06/2020 10h30 : Exosquelette HTML5 des 5 pages du site (footer/header/navbar).  
++ 25/06/2020 12h00 : Index.html mise en place, correction mineures sur le footer et la navbar.
 
 ## Poste occupé durant la Réalisation
 
@@ -40,3 +42,6 @@ En cours de maquettage
 ## Screenshots
 
 A venir
+
+## Credits
+
