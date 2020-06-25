@@ -10,6 +10,7 @@ Il s'agit d'un excercice réalisé durant la formation chez BeCode de Junior Web
 
 + HTML5, CSS3  
 + Bootstrap 4
++ JS
 
 ## Responsive
 
@@ -31,10 +32,11 @@ En cours de maquettage
 
 ## Historique
 
-+ 25/06/2020 9h30 : création du readme, initialisation du repo, des dossiers et des fichiers basiques.
++ 25/06/2020 09h30 : création du readme, initialisation du repo, des dossiers et des fichiers basiques.
 + 25/06/2020 10h30 : Exosquelette HTML5 des 5 pages du site (footer/header/navbar).  
 + 25/06/2020 12h00 : Index.html mise en place, correction mineures sur le footer et la navbar.
 + 25/06/2020 14h55 : Carte mise en place en Lorem ipsum.
++ 25/06/2020 xxhxx : Gallerie d'images squelette mis en place, inclusion de JS.
 
 ## Poste occupé durant la Réalisation
 

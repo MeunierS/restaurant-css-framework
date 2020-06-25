@@ -60,7 +60,67 @@
             </ul>
         </div>
     </nav>
-
+    <!-- section photo -->
+    <section> 
+        <div class="row">
+            <div class="col-md-12 d-flex justify-content-center mb-5">
+                
+                <button type="button" class="btn btn-outline-black" onclick="removeElement0()">Aucune image</button>
+                <button type="button" class="btn btn-outline-black" onclick="removeElement1()">1</button>
+                <button type="button" class="btn btn-outline-black" onclick="removeElement2()">2</button>
+                <button type="button" class="btn btn-outline-black" onclick="removeElement3()">3</button>
+                <button type="button" class="btn btn-outline-black" onclick="removeElement4()">4</button>
+                <button type="button" class="btn btn-outline-black" onclick="removeElementtout()">Tout</button>
+          
+            </div>
+        </div>
+        <div class="row">
+            <div class="gallery col-12" id="gallery1">
+                <div class="col-4">
+                    tet1
+                </div>
+                <div class="col-4">
+                    shj
+                </div>
+                <div class="col-4">
+                    sdjik
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="gallery col-12" id="gallery2">
+                <div class="col-4">
+                    sdf2
+                </div>
+                <div class="col-4">
+                    sdh
+                </div>
+                <div class="col-4">
+                    sdfhh
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="gallery col-12" id="gallery3">
+                <div class="col-4">
+                   wdghh3
+                </div>
+                <div class="col-4">
+                    qdq
+                </div>
+                <div class="col-4">
+                    sdghj
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="gallery col-12" id="gallery4">
+                <div class="col-12">
+                   4444444
+                </div>
+            </div>
+        </div>
+    </section>
     <!-- footer -->
     <footer class="page-footer font-small blue pt-4">
         <div class="container-fluid text-center text-md-left">
@@ -103,8 +163,58 @@
         </div>
         <!-- Copyright -->
     </footer>
+
     <!-- Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    
+    <!-- Autres script -->
+    <script>
+        function removeElement0() {
+            document.getElementById("gallery1").style.display = "none";
+            document.getElementById("gallery2").style.display = "none";
+            document.getElementById("gallery3").style.display = "none";
+            document.getElementById("gallery4").style.display = "none";
+            
+        }
+        function removeElement1() {
+            document.getElementById("gallery1").style.display = "block";
+            document.getElementById("gallery1").style.visibility = "visible";
+            document.getElementById("gallery2").style.display = "none";
+            document.getElementById("gallery3").style.display = "none";
+            document.getElementById("gallery4").style.display = "none";
+        }
+        function removeElement2() {
+            document.getElementById("gallery1").style.display = "none";
+            document.getElementById("gallery2").style.display = "block";
+            document.getElementById("gallery2").style.visibility = "visible";
+            document.getElementById("gallery3").style.display = "none";
+            document.getElementById("gallery4").style.display = "none";
+        }
+        function removeElement3() {
+            document.getElementById("gallery1").style.display = "none";
+            document.getElementById("gallery2").style.display = "none";
+            document.getElementById("gallery3").style.display = "block";
+            document.getElementById("gallery3").style.visibility = "visible";
+            document.getElementById("gallery4").style.display = "none";
+        }
+        function removeElement4() {
+            document.getElementById("gallery1").style.display = "none";
+            document.getElementById("gallery2").style.display = "none";
+            document.getElementById("gallery3").style.display = "none";
+            document.getElementById("gallery4").style.display = "block";
+            document.getElementById("gallery4").style.visibility = "visible";
+        }
+        function removeElementtout() {
+            document.getElementById("gallery1").style.display = "block";
+            document.getElementById("gallery1").style.visibility = "visible";
+            document.getElementById("gallery2").style.display = "block";
+            document.getElementById("gallery2").style.visibility = "visible";
+            document.getElementById("gallery3").style.display = "block";
+            document.getElementById("gallery3").style.visibility = "visible";
+            document.getElementById("gallery4").style.display = "block";
+            document.getElementById("gallery4").style.visibility = "visible";
+        }
+    </script> 
 </body>
 </html>
