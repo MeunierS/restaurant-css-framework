@@ -34,6 +34,7 @@ En cours de maquettage
 + 25/06/2020 9h30 : création du readme, initialisation du repo, des dossiers et des fichiers basiques.
 + 25/06/2020 10h30 : Exosquelette HTML5 des 5 pages du site (footer/header/navbar).  
 + 25/06/2020 12h00 : Index.html mise en place, correction mineures sur le footer et la navbar.
++ 25/06/2020 14h55 : Carte mise en place en Lorem ipsum.
 
 ## Poste occupé durant la Réalisation
 
