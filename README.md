@@ -28,7 +28,7 @@ Réalisation Solo
 
 Début : 25/06/2020
 
-En cours de maquettage  
+v1.0 : 26/06/2020  
 
 ## Historique
 
@@ -38,6 +38,7 @@ En cours de maquettage
 + 25/06/2020 14h55 : Carte mise en place en Lorem ipsum.
 + 25/06/2020 16h30 : Gallerie d'images squelette mis en place, inclusion de JS.
 + 26/06/2020 10h20 : Correction JS et HTML5 dans la page pict.html, Formulaire de contact implémenté, page franshise implémentée, Exosquelette terminé.
++ 26/06/2020 11h55 : Ajout des assets, CSS, gallerie image. Push v1.0
 
 ## Poste occupé durant la Réalisation
 
@@ -45,7 +46,11 @@ En cours de maquettage
 
 ## Screenshots
 
-A venir
+![Screenshot1](assets/screens/screen1.png)
+![Screenshot2](assets/screens/screen2.png)
+![Screenshot3](assets/screens/screen3.png)
 
 ## Credits
 
+Photo Source :
++ [Lifeofpix](https://www.lifeofpix.com/)

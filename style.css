@@ -1,3 +1,12 @@
+/* body*/
+body{
+    background-color: lightslategray;
+    color: white;
+}
+.jumbotron{
+    background-image: url(assets/CSS/banner.jpg);
+    color: darkorange;
+}
 .promo{
     font-size: 20px;
     color: red;
@@ -9,4 +18,14 @@
 }
 .bold{
     font-weight: bold;
+}
+.card {
+    color: black;
+}
+.card img{
+    width: 20rem;
+}
+/*footer*/
+footer img{
+    background-color: white;
 }
