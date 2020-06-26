@@ -39,6 +39,7 @@ v1.0 : 26/06/2020
 + 25/06/2020 16h30 : Gallerie d'images squelette mis en place, inclusion de JS.
 + 26/06/2020 10h20 : Correction JS et HTML5 dans la page pict.html, Formulaire de contact implémenté, page franshise implémentée, Exosquelette terminé.
 + 26/06/2020 11h55 : Ajout des assets, CSS, gallerie image. Push v1.0
++ 26/06/2020 14h20 : Correction pour validation w3c. => v1.1
 
 ## Poste occupé durant la Réalisation
 
