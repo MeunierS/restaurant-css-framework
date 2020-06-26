@@ -36,7 +36,8 @@ En cours de maquettage
 + 25/06/2020 10h30 : Exosquelette HTML5 des 5 pages du site (footer/header/navbar).  
 + 25/06/2020 12h00 : Index.html mise en place, correction mineures sur le footer et la navbar.
 + 25/06/2020 14h55 : Carte mise en place en Lorem ipsum.
-+ 25/06/2020 xxhxx : Gallerie d'images squelette mis en place, inclusion de JS.
++ 25/06/2020 16h30 : Gallerie d'images squelette mis en place, inclusion de JS.
++ 26/06/2020 10h20 : Correction JS et HTML5 dans la page pict.html, Formulaire de contact implémenté, page franshise implémentée, Exosquelette terminé.
 
 ## Poste occupé durant la Réalisation
 
